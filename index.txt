@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>《计算机科学与技术导论》期末大作业</title>
+</head>
+<h1 align="center">《计算机科学与技术导论》期末大作业</h1><font size="4">
+<body background="./2.jpg">
+<h2 style="text-align:center;"><div style="line-height: 150px;">1.计算机学科各课程之间的关系图</h2>
+<img src="./1.png" alt="1" />
+<h2 style="text-align:center;"><div style="line-height: 100px;">2.计算机学科各课程有用的参考资料</h2>
+<div style="text-align:center;"><a href="https://www.bilibili.com/video/BV1aW411Q7x1?spm_id_from=333.999.0.0/" style="text-align:center;">线性代数宋浩</a>
+<a href="https://www.bilibili.com/video/BV1UW411k7Jv?spm_id_from=333.999.0.0/">高等数学宋浩</a>
+<a href="./高等数学.pdf">高等数学教材</a>
+<a href="./线性代数.pdf">线性代数教材</a>
+<h2 style="text-align:center;"><div style="line-height: 100px;">3.我对计算机专业的认识</h2>
+<h3 style="text-align:center;"><div style="line-height: 70px;">(1)计算机学科：</h3>
+<p style="text-align:center;">计算机的设计与制造，实现信息获取、表示、存储、处理、控制等的理论、原则、方法和技术。</p>
+<h3 style="text-align:center;"><div style="line-height: 70px;">(2)计算机学科的渗透：</h3>
+<p style="text-align:center;">计算机+工业=智慧工业</p>
+<p style="text-align:center;">计算机+医疗=智慧医疗</p>
+<p style="text-align:center;">计算机+教育=智慧教育</p>
+<p style="text-align:center;">计算机+金融=智慧金融</p>
+<p style="text-align:center;">计算机+交通=智慧交通</p>
+<p style="text-align:center;">计算机+税务=智慧税务</p>
+<h3 style="text-align:center;"><div style="line-height: 70px;">(3)计算机人才的职业去向：</h3>
+<p style="text-align:center;">研究者 教育者 技术开发者 管理者</p>
+<h3 style="text-align:center;"><div style="line-height: 70px;">(4)计算机专业人才的知识结构：</h3>
+<p style="text-align:center;">其他专业知识    行业领城知识</p>
+<p style="text-align:center;">计算机设计／软件开发技术    计算机应用技术</p>
+<p style="text-align:center;">计算机网络与信息安全    数据库与信息系统    工具与平台</p>
+<p style="text-align:center;">计算机系统与软件系统    程序设计与软件开发    算法分析与设计方法</p>
+<p style="text-align:center;">基础理论：数学、计算机科学、软件工程基础理论</p>
+<p style="text-align:center;">通识基础：人文社科与外语、经济与法律</p>
+<h4 style="text-align:center;">专业能力</h4>
+<p style="text-align:center;">理论分析与抽象能力</p>      
+<p style="text-align:center;">问题理解与求解能力</p>       
+<p style="text-align:center;">系统建模与设计能力</p>        
+<p style="text-align:center;">计算机开发与实现能力</p>      
+<p style="text-align:center;">系统开发与调试能力</p>       
+<p style="text-align:center;">实践经验与动手能力</p>      
+<p style="text-align:center;">持续学习与改进能力</p>  
+<h4 style="text-align:center;">通识能力</h4>
+<p style="text-align:center;">使命感与责任意识</p>
+<p style="text-align:center;">创新与竞争意识</p>
+<p style="text-align:center;">交流与表达</p>
+<p style="text-align:center;">项目组织与团队协作</p>
+<p style="text-align:center;">经营管理能力</p>
+<p style="text-align:center;">毅力与执着</p>
+<h2 style="text-align:center;"><div style="line-height: 100px;">4.我的学业规划</h2>
+<p>大一时：加强学习与专业相关的知识，打好基础，做好由基础课向专业课过渡的准备，并摸索出自己希望的专业去向，为分流做准备。选修一些自己感兴趣的课程，培养自己的兴趣爱好，养成阅读的好习惯，拓展知识面，陶冶情操，提升自己的精神境界。认真学习英语并一次性考过英语四六级。</p>
+<p>大二时：在过完大一的大学生活后，我们也逐渐学会适应了这种生活。也开始了专业课学习，要抓紧学习，每一门专业课都至关重要，碰到不会的地方，积极向老师提问。同时可以开始规划自己的竞赛，参加竞赛不仅对保研有好处，从中获得的经验与知识更是宝贵。</p>
+<p>大三大四的主要任务就是决定自己之后的发展方向，想要保研就要在学业上下功夫，做好竞赛规划或科研的计划，努力学习的过程别忘了思考，收集有利的经验，为以后的工作打基础。 </p>
+</body>
+</html>
